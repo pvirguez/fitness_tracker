@@ -1,6 +1,6 @@
 {
   "name": "PV Gym Tracker",
-  "short_name": "PV Gym",
+  "short_name": "GymTracker",
   "description": "Track your workouts and progress",
   "start_url": "/",
   "display": "standalone",
